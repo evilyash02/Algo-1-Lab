@@ -1,4 +1,4 @@
-//
+
 //  main.cpp
 //  Algo 1 Lab
 //
@@ -10,6 +10,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Hello, World!\n";
+    std::cout << "Hello, Worldd!\n";
     return 0;
 }
