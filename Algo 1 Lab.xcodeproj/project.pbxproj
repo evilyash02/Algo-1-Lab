@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		6D9B75BC25152B7C00AEA69B /* Algo 1 Lab */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Algo 1 Lab"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D9B75BF25152B7C00AEA69B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		6D9B75CA25152CAC00AEA69B /* assign2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = assign2.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		6D9B75BE25152B7C00AEA69B /* Algo 1 Lab */ = {
 			isa = PBXGroup;
 			children = (
+				6D9B75CA25152CAC00AEA69B /* assign2.h */,
 				6D9B75BF25152B7C00AEA69B /* main.cpp */,
 			);
 			path = "Algo 1 Lab";
