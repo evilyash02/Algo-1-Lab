@@ -60,8 +60,16 @@
 			children = (
 				6D9B75CA25152CAC00AEA69B /* assign2.h */,
 				6D9B75BF25152B7C00AEA69B /* main.cpp */,
+				6D9B75CD25152E3B00AEA69B /* Assignment 1 */,
 			);
 			path = "Algo 1 Lab";
+			sourceTree = "<group>";
+		};
+		6D9B75CD25152E3B00AEA69B /* Assignment 1 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Assignment 1";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
